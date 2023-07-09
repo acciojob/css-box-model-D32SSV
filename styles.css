@@ -1,25 +1,28 @@
-
-/* Your CSS Code here. */
 .one {
 	border: 1px solid black;
-		width: max-content;
+	width: 300px;	
+	width: max-content;
 }
 
 .two {
-	border: 1px solid black;
+	border: 15px solid blue;
 	margin: 20px;
 }
 
 .three {
-	border: 15px solid blue;
+	background-color: lightblue;
+	padding: 50px;
+	width: 300px;
+	/* border: 1px solid black; */
 }
 
 .four {
-	padding: 50px;
-	background-color: lightblue;
+	width: 300px;
+	/* border: 1px solid black; */
+	/* padding: 50px; */
 }
 
 .five {
-	border: 1px dashed black;
-	width: 300px;	
+	border: 1px dashed  black;
+	font-size: xx-small;
 }
