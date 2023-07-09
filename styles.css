@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+.one {
+	border: 1px solid black;
+		width: max-content;
+}
+
+.two {
+	border: 1px solid black;
+	margin: 20px;
+}
+
+.three {
+	border: 15px solid blue;
+}
+
+.four {
+	padding: 50px;
+	background-color: lightblue;
+}
+
+.five {
+	border: 1px dashed black;
+	width: 300px;	
+}
